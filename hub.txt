@@ -1,0 +1,5 @@
+hub myHub
+shortLabel My Custom Tracks
+longLabel A collection of custom tracks for research
+genomesFile genomes.txt
+tracksFile human.txt
