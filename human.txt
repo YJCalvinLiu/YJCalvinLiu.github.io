@@ -1,0 +1,7 @@
+track combinedTracks
+bigDataUrl https://yjcalvinliu.github.io/nUCSC_REG_7_SIGn19_fN_r6d9_0_____________spry_V1.txt
+shortLabel Custom Tracks
+longLabel A collection of custom tracks combined into one file
+type bed
+visibility pack
+itemRgb On
